@@ -1,5 +1,5 @@
 # Objetivo
-Desafio de entrevista em Pyhon
+Desafio de entrevista em Python
 
 # Empresa
 ASQ capital - investimentos
