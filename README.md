@@ -1,12 +1,12 @@
-# Objetivo
-Desafio de entrevista em Python
+# Objective
+Python interview challenge
 
-# Empresa
+# Company
 ASQ capital - investimentos
 
-## Material de apoio
+## Support material
 https://github.com/Daviaraujo-art/Teste.py
 
 
-## Vídeo
+## study video
 https://www.youtube.com/watch?v=hdDHg1p3YVc&t=973s
