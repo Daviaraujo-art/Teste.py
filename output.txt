@@ -1,0 +1,10 @@
+repetido: 1
+repetido: 2
+repetido: 3
+unico: 4
+unico: 5
+unico: 6
+unico: 7
+unico: 8
+unico: 9
+unico: 10
