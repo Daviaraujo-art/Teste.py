@@ -37,17 +37,3 @@ def run():
             for number, status in storage.get_numbers().items():
                 output_file.write(status + ": " + str(number) + "\n")
                 print(number, status)
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
